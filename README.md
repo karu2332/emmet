@@ -6,6 +6,7 @@ main
 section
 footer
 figure - figcaption
+aside
 
 paragraph
 list
